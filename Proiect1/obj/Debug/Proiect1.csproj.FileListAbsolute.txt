@@ -1,0 +1,12 @@
+D:\An3\Sem1\SSC\Proiect1\Proiect1\bin\Debug\Proiect1.exe.config
+D:\An3\Sem1\SSC\Proiect1\Proiect1\bin\Debug\Proiect1.exe
+D:\An3\Sem1\SSC\Proiect1\Proiect1\bin\Debug\Proiect1.pdb
+D:\An3\Sem1\SSC\Proiect1\Proiect1\obj\Debug\Proiect1.csproj.AssemblyReference.cache
+D:\An3\Sem1\SSC\Proiect1\Proiect1\obj\Debug\Proiect1.Form1.resources
+D:\An3\Sem1\SSC\Proiect1\Proiect1\obj\Debug\Proiect1.Properties.Resources.resources
+D:\An3\Sem1\SSC\Proiect1\Proiect1\obj\Debug\Proiect1.csproj.GenerateResource.cache
+D:\An3\Sem1\SSC\Proiect1\Proiect1\obj\Debug\Proiect1.csproj.CoreCompileInputs.cache
+D:\An3\Sem1\SSC\Proiect1\Proiect1\obj\Debug\Proiect1.exe
+D:\An3\Sem1\SSC\Proiect1\Proiect1\obj\Debug\Proiect1.pdb
+D:\An3\Sem1\SSC\Proiect1\Proiect1\obj\Debug\Proiect1.FormDisk.resources
+D:\An3\Sem1\SSC\Proiect1\Proiect1\obj\Debug\Proiect1.FormInstruction.resources
